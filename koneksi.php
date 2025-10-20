@@ -8,7 +8,7 @@ ini_set('display_errors', 1);
 $host = "localhost";
 $user = "xirpl1-18";
 $pass = "3087045478"; 
-$db   = "db_xirpl1-18_2";
+$db   = "db_xirpl1-18_3";
 
 // perintah koneksi
 $koneksi = mysqli_connect($host, $user, $pass, $db);
